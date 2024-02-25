@@ -36,7 +36,7 @@
   <!--/ Nav Star /-->
   <nav class="navbar navbar-b navbar-trans navbar-expand-md fixed-top" id="mainNav">
     <div class="container">
-      <a class="navbar-brand js-scroll" href="#page-top">Aishwarya Wedding Planner</a>
+      <a class="navbar-brand js-scroll" href="#page-top">Online Banquet Booking</a>
       <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarDefault"
         aria-controls="navbarDefault" aria-expanded="false" aria-label="Toggle navigation">
         <span></span>
@@ -68,7 +68,7 @@
       <div class="table-cell">
         <div class="container">
           <!--<p class="display-6 color-d">Hello, world!</p>-->
-          <h1 class="intro-title mb-4">Aishwarya Wedding Planner</h1>
+          <h1 class="intro-title mb-4">Online Banquet Booking</h1>
           <p class="intro-subtitle"><span class="text-slider-items">Find your best Match,Make Your Wedding Memorable,Hire Us. Rest on Us</span><strong class="text-slider"></strong></p>
           <!-- <p class="pt-3"><a class="btn btn-primary btn js-scroll px-4" href="#about" role="button">Learn More</a></p> -->
         </div>
@@ -189,7 +189,7 @@
                 <div class="about-me pt-4 pt-md-0">
                   <div class="title-box-2">
                     <h5 class="title-left">
-                      About me
+                      About us:
                     </h5>
                   </div>
                   <p class="lead">
@@ -212,8 +212,8 @@
           <div id="testimonial-mf" class="owl-carousel owl-theme">
             <div class="testimonial-box">
               <div class="author-test">
-                <img src="img/rajesh.jpeg" alt="" class="rounded-circle b-shadow-a" style="height: 250px; width: 250px;">
-                <span class="author">Aishwarya </span>
+                <img src="" alt="" class="rounded-circle b-shadow-a" style="height: 250px; width: 250px;">
+                <span class="author"> </span>
               </div>
               <div class="content-test">
                 <p class="description lead">
@@ -224,8 +224,8 @@
             </div>
             <div class="testimonial-box">
               <div class="author-test">
-                <img src="img/rajeev.jpeg" alt="" class="rounded-circle b-shadow-a" style="height: 250px; width: 250px;">
-                <span class="author">Rajeev Kumar</span>
+                <img src="" alt="" class="rounded-circle b-shadow-a" style="height: 250px; width: 250px;">
+                <span class="author">Jayashree D M & Team</span>
               </div>
               <div class="content-test">
                 <p class="description lead">
